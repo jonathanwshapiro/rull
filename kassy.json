@@ -1,0 +1,9 @@
+{
+  "name": "rull",
+  "version": 2.1,
+  "startup": "rull.js",
+  "command": "rull",
+  "help": [
+    [ "{{commandPrefix}}rull <dice>", "rull some dice" ]
+  ]
+}
